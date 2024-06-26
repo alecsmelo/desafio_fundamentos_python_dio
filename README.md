@@ -31,7 +31,8 @@
  
  ### Visualizar Extrato
       - Diferente do projeto original, preferi trabalhar com uma lista na variável Extrato.
-      - Sendo assim é possível fazer uma interação usando FOR para exibir linha a linha as movimentações.
+      - Sendo assim é possível fazer uma interação usando FOR para exibir linha a linha as 
+        movimentações.
       - O extrato imprime na tela, o valor atual do saldo e o histórico com todas a movimentações.
   
   
